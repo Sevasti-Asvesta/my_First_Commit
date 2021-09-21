@@ -1,0 +1,25 @@
+h1 {
+color: rgb(29, 155, 177);
+font-weight: bold;
+background-color: cadetblue;
+text-align: center;
+}
+body {
+    background-color: chartreuse;
+}
+.subtitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#blue-subtitle {
+    color: darkblue;
+    font-size: 20px;
+}
+/*comment goes here*/
+img {
+    max-width: 100px;
+    width: 600px;
+    float: right;
+}
+.listbox {
+    border-style: solid red
+}
